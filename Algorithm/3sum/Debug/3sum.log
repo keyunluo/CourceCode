@@ -1,0 +1,6 @@
+﻿  3sum.cpp
+e:\c++\algorithm\3sum\3sum.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\algorithm\3sum\3sum.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\algorithm\3sum\3sum.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\algorithm\3sum\3sum.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+  3sum.vcxproj -> E:\C++\Algorithm\Debug\3sum.exe
