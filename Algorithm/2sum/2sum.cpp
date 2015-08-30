@@ -25,6 +25,7 @@ vector<int> twoSum(vector<int> &numbers, const int target)
 
 int main()
 {
+	printf("2-Sum\n");
 	vector<int> numbers,result;
 	int target;
 	int count = 0;
