@@ -55,7 +55,6 @@ void swapData(T &x, T &y)
 
 int partition(SqList &L, int low, int hight)
 {
-	RecType temp;
 	int pivotKey = L.r[low].key;
 	while (low < hight)
 	{
