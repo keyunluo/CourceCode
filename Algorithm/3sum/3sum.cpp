@@ -1,4 +1,3 @@
-// Source : https://oj.leetcode.com/problems/3sum/
 // Author : Hao Chen
 // Date   : 2014-07-22
 
