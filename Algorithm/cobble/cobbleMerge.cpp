@@ -34,13 +34,13 @@ int main()
 		memset(dpmin, 0, sizeof(dpmin));
 
 		//区间长度枚举len,包括自身
-		for (len = 2; len <= n; len++)
+		for (len = 1; len <= n-1; len++)
 		{
 			//起始位置i
-			for (i = 1; i <= n - len + 1; i++)
+			for (i = 1; i <= n - len; i++)
 			{
 				//终止位置j
-				j = i + len - 1;
+				j = i + len ;
 				//固定的累积和
 				temp = sum[j] - sum[i - 1];
 
